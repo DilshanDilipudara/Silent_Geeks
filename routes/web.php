@@ -14,3 +14,15 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/Dilshan', function () {
+    return view('Dilshan');
+});
+
+Route::get('/Rayan', function () {
+    return view('Rayan');
+});
+
+Route::get('/Chamikara', function () {
+    return view('Chamikara');
+});
