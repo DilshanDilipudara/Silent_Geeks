@@ -424,7 +424,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-laptop-phone"></span>
-						<h4><span>Application</span> Development
+						<h4><span>Android</span> Development
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -432,7 +432,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
 						<span class="lnr lnr-database"></span>
-						<h4><span>Web</span> Development
+						<h4><span>Database</span> Design
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -534,7 +534,7 @@
 			<div class="row mt-80">
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>+94-717378668</h4>
+						<h4>+94717378668</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
@@ -591,7 +591,7 @@
 			<div class="row footer-bottom justify-content-center">
 				<p class="col-lg-8 col-sm-12 footer-text">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Silent Geeks</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>
 		</div>

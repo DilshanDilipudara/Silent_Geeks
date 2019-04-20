@@ -38,7 +38,7 @@
 								<a href="index.html"><img src="maze/img/logo.png" alt=""></a>
 							</div>
 							<div class="main-menubar d-flex align-items-center">
-								<nav class="">
+								<nav class="hide">
 									<a href="/">Home</a>
 									<a href="/Dilshan">Dilshan</a>
 									<a href="/Rayan">Rayan</a>
@@ -142,25 +142,25 @@
 			<section class="image-gallery-area pt-60 pb-60">
 				<div class="row gallery-item">
 					<div class="col-md-8 single-item">
-						<a href="maze/img/g1.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g1.jpg);"></div></a>
+						<a href="maze/img/g1.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/uoj1.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
-						<a href="maze/img/g2.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g2.jpg);"></div></a>
+						<a href="maze/img/g2.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/uojieee.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
-						<a href="maze/img/g3.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g3.jpg);"></div></a>
+						<a href="maze/img/g3.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/dilshan1.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
-						<a href="maze/img/g4.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g4.jpg);"></div></a>
+						<a href="maze/img/g4.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/chamikara1.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
-						<a href="maze/img/g5.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g5.jpg);"></div></a>
+						<a href="maze/img/g5.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/rayan1.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
 						<a href="maze/img/g6.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g6.jpg);"></div></a>
 					</div>
 					<div class="col-md-8 single-item">
-						<a href="maze/img/g7.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g7.jpg);"></div></a>
+						<a href="maze/img/g7.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/dilshan3.jpg);"></div></a>
 					</div>
 				</div>
 			</section>
