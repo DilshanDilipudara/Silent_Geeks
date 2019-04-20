@@ -48,26 +48,20 @@
 		<div class="container main-menu">
 			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="/Dilshan"><img src="img/logo.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
-						<li class=""><a class="active" href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="portfolio.html">Portfolio</a></li>
+						<li class=""><a class="active" href="/">Home</a></li>
+
 						<li class="menu-has-children"><a href="#">Pages</a>
 							<ul>
-								<li><a href="elements.html">Elements</a></li>
-								<li><a href="contact.html">Contact</a></li>
-								<li><a href="services.html">Service</a></li>
-								<li><a href="portfolio-details.html">Portfolio Details</a></li>
+								<li><a href="/Dilshan">Dilshan Dilip</a></li>
+								<li><a href="/Rayan">Rayan Aradha</a></li>
+								<li><a href="/chamikara">Chamikara </a></li>
 							</ul>
 						</li>
-						<li class="menu-has-children"><a href="">Blog</a>
-							<ul>
-								<li><a href="blog-home.html">Blog Home</a></li>
-								<li><a href="blog-single.html">Blog Single</a></li>
-							</ul>
+				
 						</li>
 					</ul>
 				</nav>
@@ -83,7 +77,7 @@
 			<div class="row fullscreen d-flex align-items-center">
 				<div class="banner-content col-lg-6 col-md-12 justify-content-center ">
 					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
-					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Kenedy Jackson</h1>
+					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Pramudhitha Chamikara</h1>
 					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
 						Senior Creative
 						<span class="designer">Designer</span>
@@ -540,17 +534,17 @@
 			<div class="row mt-80">
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>+44 2365 654 8962</h4>
+						<h4>+94-717378668</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>information@colorlib.com</h4>
+						<h4>gunawardhanaudara@gmail.com</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>kenedyjackson.me</h4>
+						<h4>DilshanDilip.me</h4>
 					</div>
 				</div>
 			</div>
@@ -586,10 +580,10 @@
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="https://www.facebook.com/dilshan.dilip"><i class="fa fa-facebook"></i></a>
 							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
+							<a href="https://github.com/DilshanDilipudara"><i class="fa fa-github"></i></a>
+							<a href="https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/"><i class="fa fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>

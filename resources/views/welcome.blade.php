@@ -59,7 +59,7 @@
 					<div class="row height justify-content-center align-items-center">
 						<div class="col-lg-5 col-sm-6 col-xs-6">
 							<div class="banner-content">
-								<h1>Everytime New stylesSuit You Unlike Other</h1>
+								<h1>Silent Geeks</h1>
 								<p>
 									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women.s
 								</p>
