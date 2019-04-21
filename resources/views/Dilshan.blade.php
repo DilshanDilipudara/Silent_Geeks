@@ -84,7 +84,7 @@
 						and Content
 						<span class="developer">Developer</span>
 					</div>
-					<a href="#" class="primary-btn" data-text="Hire Me">
+					<a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -192,7 +192,7 @@
 			<div class="row d-flex justify-content-between align-items-end mb-80">
 				<div class="col-lg-6">
 					<div class="section-title">
-						<h2>Latest Works</h2>
+						<h2>Life Event</h2>
 						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
 							some for as low as $.17 each.</p>
 					</div>
@@ -202,9 +202,9 @@
 					<div class="filters">
 						<ul>
 							<li class="active" data-filter=".all">All Categories</li>
-							<li data-filter=".branding">Branding</li>
-							<li data-filter=".creative">Creative Work</li>
-							<li data-filter=".web-design">Web Design</li>
+							<!-- <li data-filter=".branding">Sport</li>
+							<li data-filter=".creative">Party</li>
+							<li data-filter=".web-design">Competion</li> -->
 						</ul>
 					</div>
 				</div>
@@ -216,11 +216,11 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w1.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan6.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>University Life</h4>
+								<div class="cat">Friend with funs</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -229,24 +229,25 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w2.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan4.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Relax Time </h4>
+								<div class="cat">Travel</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w3.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan5.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Sports</h4>
+								<div class="cat">Elle in a my favor </div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -255,41 +256,62 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w6.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan7.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Coding Competion</h4>
+								<div class="cat">UoJ Coders</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w4.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan8.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Function in UOJ</h4>
+								<div class="cat">Holy</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w5.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan9.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>UoJ</h4>
+								<div class="cat">Sinhala And Tamil New Year</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
+
+					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="img/uoj.jpg" alt="">
+							</div>
+							<div class="middle">
+								<h4>University of Jaffna </h4>
+								<div class="cat">My Heart</div>
+							</div>
+							<a class="overlay" href="portfolio-details.html"></a>
+						</div>
+					</div>
+
+
+
+
 				</div>
 			</div>
 		</div>
@@ -315,15 +337,14 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Creative Design</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Problem Solving</h4>
+								<p>ProjectEuler+ , Java , Algorithms</p>
+								
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.hackerrank.com/gunawardhanauda1?hr_r=1" class="primary-btn" data-text="Haker Rank">
+									<span>H</span>a<span>k</span><span>e</span><span>r</span>
+									<span>R</span><span>a</span><span>n</span><span>k</span>
 								</a>
 							</div>
 						</div>
@@ -338,15 +359,14 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Projects</h4>
+								<p>Web Design , Application</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://github.com/DilshanDilipudara" class="primary-btn" data-text="git hub">
+									<span>g</span><span>i</span><span>t</span>
+									<span>h</span><span>u</span><span>b</span>
+									
 								</a>
 							</div>
 						</div>
@@ -361,15 +381,12 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Junior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Blogger</h4>
+								<p>problems Discussion</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.blogger.com/blogger.g?blogID=4789871501629630808#allposts" class="primary-btn" data-text="Blogger">
+									<span>B</span><span>l</span><span>o</span><span>g</span><span>g</span><span>e</span><span>r</span>
 								</a>
 							</div>
 						</div>
@@ -384,15 +401,14 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Intern Designer</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Sololearn</h4>
+								<p>quice , courses</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.sololearn.com/Profile/10480342" class="primary-btn" data-text="Sololearn">
+									<span>S</span><span>o</span><span>l</span><span>o</span>
+									<span>L</span><span>e</span><span>a</span><span>r</span><span>n</span>
+									
 								</a>
 							</div>
 						</div>
