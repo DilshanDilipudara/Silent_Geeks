@@ -15,7 +15,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Kenedy Personal</title>
+	<title>Dilshan Dilip</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -48,7 +48,7 @@
 		<div class="container main-menu">
 			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="/Dilshan"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="/Dilshan"><img src="img/Cletter.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -79,10 +79,10 @@
 					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
 					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Dilshan Dilip Udara</h1>
 					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
-						Senior Creative
-						<span class="designer">Designer</span>
-						and Content
-						<span class="developer">Developer</span>
+						3rd year
+						<span class="designer">Computer Science</span>
+					    Undergraduate Student of
+						<span class="developer">University of Jaffna.</span>
 					</div>
 					<a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
@@ -148,16 +148,17 @@
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
-						<h2>about myselt</h2>
+						<h2>about myself</h2>
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the
-							workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior
-							is often laughed. inappropriate behavior is often laughed off as “boys will be boys,” women face higher.
+						       I am third year computer scince <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a> student of university of Jaffna. 
+							   I am interst about field of web development. Also I have a basic knowledge about android app development. So I hope 
+							   to build my carrier in those field.
 						</p>
 						<p>That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often
-							laughed.
+							laughed. 
+						
 						</p>
 					</div>
 					<a href="#" class="primary-btn white" data-text="More Info">
@@ -482,8 +483,8 @@
 			<div class="testi_slider owl-carousel">
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
+						<img src="img/fb.png" alt="">
+						<h4>Facebook</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -502,7 +503,7 @@
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
+						<h4>Linkend</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -521,7 +522,7 @@
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
+						<h4>Twitter</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -600,13 +601,13 @@
 					<div class="footer-top flex-column">
 						<div class="footer-logo">
 							<a href="#">
-								<img src="img/logo.png" alt="">
+								<img src="img/Cletter.png" alt="">
 							</a>
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
 							<a href="https://www.facebook.com/dilshan.dilip"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="https://twitter.com/DilshanDilip3"><i class="fa fa-twitter"></i></a>
 							<a href="https://github.com/DilshanDilipudara"><i class="fa fa-github"></i></a>
 							<a href="https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/"><i class="fa fa-linkedin"></i></a>
 						</div>
