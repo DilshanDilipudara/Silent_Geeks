@@ -58,7 +58,7 @@
 							<ul>
 								<li><a href="/Dilshan">Dilshan Dilip</a></li>
 								<li><a href="/Rayan">Rayan Aradha</a></li>
-								<li><a href="/chamikara">Chamikara </a></li>
+								<li><a href="/Chamikara">Chamikara </a></li>
 							</ul>
 						</li>
 				
@@ -109,19 +109,28 @@
 			<div class="brand-wrap">
 				<div class="row align-items-center active-brand-carusel justify-content-start no-gutters">
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b1.png" alt=""></a>
+						<a href="#"><img class="mx-auto" src="img/brand/java.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b2.png" alt=""></a>
+						<a href="#"><img class="mx-auto" src="img/brand/laravel2.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b3.png" alt=""></a>
+						<a href="#"><img class="mx-auto" src="img/brand/mysql.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b4.png" alt=""></a>
+						<a href="#"><img class="mx-auto" src="img/brand/android.png" alt=""></a>
+					</div>
+                    <div class="col single-brand">
+						<a href="#"><img class="mx-auto" src="img/brand/vue.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/b5.png" alt=""></a>
+						<a href="#"><img class="mx-auto" src="img/brand/python.png" alt=""></a>
+					</div>
+					<div class="col single-brand">
+						<a href="#"><img class="mx-auto" src="img/brand/php.png" alt=""></a>
+					</div>
+                    <div class="col single-brand">
+						<a href="#"><img class="mx-auto" src="img/brand/perl.png" alt=""></a>
 					</div>
 				</div>
 			</div>
