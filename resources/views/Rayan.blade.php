@@ -15,7 +15,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Kenedy Personal</title>
+	<title>Rayan Aradha</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -48,7 +48,7 @@
 		<div class="container main-menu">
 			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="/Dilshan"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="/Dilshan"><img src="img/Cletter.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -57,7 +57,7 @@
 						<li class="menu-has-children"><a href="#">Pages</a>
 							<ul>
 								<li><a href="/Dilshan">Dilshan Dilip</a></li>
-								<li><a href="/Rayan">Rayan Aradha</a></li>
+						
 								<li><a href="/Chamikara">Chamikara </a></li>
 							</ul>
 						</li>
@@ -79,12 +79,12 @@
 					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
 					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Rayan Aradha</h1>
 					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
-						Senior Creative
-						<span class="designer">Designer</span>
-						and Content
-						<span class="developer">Developer</span>
+						3rd year
+						<span class="designer">Computer Science</span>
+					    Undergraduate Student of
+						<span class="developer">University of Jaffna.</span>
 					</div>
-					<a href="#" class="primary-btn" data-text="Hire Me">
+					<a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -118,15 +118,18 @@
 						<a href="#"><img class="mx-auto" src="img/brand/mysql.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/php.png" alt=""></a>
+						<a href="#"><img class="mx-auto" src="img/brand/android.png" alt=""></a>
 					</div>
-					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/c.png" alt=""></a>
+                    <div class="col single-brand">
+						<a href="#"><img class="mx-auto" src="img/brand/vue.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
 						<a href="#"><img class="mx-auto" src="img/brand/python.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
+						<a href="#"><img class="mx-auto" src="img/brand/php.png" alt=""></a>
+					</div>
+                    <div class="col single-brand">
 						<a href="#"><img class="mx-auto" src="img/brand/perl.png" alt=""></a>
 					</div>
 				</div>
@@ -145,16 +148,16 @@
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
-						<h2>about myselt</h2>
+						<h2>about myself</h2>
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the
-							workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior
-							is often laughed. inappropriate behavior is often laughed off as “boys will be boys,” women face higher.
+						       I am third year computer scince <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a> student of university of Jaffna. 
+							   I am interst about prblem solving. 
 						</p>
-						<p>That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often
-							laughed.
+						Also I have a knowledge about Java,PHP,Phyton,C language. I am interst to lean new algorithm,data stuructre. I hope to use my computing knowledge to solve real world problem
+						<p>
+						
 						</p>
 					</div>
 					<a href="#" class="primary-btn white" data-text="More Info">
@@ -189,9 +192,8 @@
 			<div class="row d-flex justify-content-between align-items-end mb-80">
 				<div class="col-lg-6">
 					<div class="section-title">
-						<h2>Latest Works</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>Life Event</h2>
+						<p>I am interst to participate codding compition.</p>
 					</div>
 				</div>
 
@@ -199,9 +201,9 @@
 					<div class="filters">
 						<ul>
 							<li class="active" data-filter=".all">All Categories</li>
-							<li data-filter=".branding">Branding</li>
-							<li data-filter=".creative">Creative Work</li>
-							<li data-filter=".web-design">Web Design</li>
+							<!-- <li data-filter=".branding">Sport</li>
+							<li data-filter=".creative">Party</li>
+							<li data-filter=".web-design">Competion</li> -->
 						</ul>
 					</div>
 				</div>
@@ -213,11 +215,11 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w1.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan6.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>University Life</h4>
+								<div class="cat">Friend with funs</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -226,24 +228,25 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w2.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan4.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Relax Time </h4>
+								<div class="cat">Travel</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w3.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan5.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Sports</h4>
+								<div class="cat">Elle in a my favor </div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -252,41 +255,62 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w6.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan7.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Coding Competion</h4>
+								<div class="cat">UoJ Coders</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w4.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan8.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Function in UOJ</h4>
+								<div class="cat">Holy</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w5.jpg" alt="">
+								<img class="image img-fluid" src="img/dilshan9.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>UoJ</h4>
+								<div class="cat">Sinhala And Tamil New Year</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+
+
+					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+						<div class="relative">
+							<div class="thumb">
+								<div class="overlay overlay-bg"></div>
+								<img class="image img-fluid" src="img/uoj.jpg" alt="">
+							</div>
+							<div class="middle">
+								<h4>University of Jaffna </h4>
+								<div class="cat">My Heart</div>
+							</div>
+							<a class="overlay" href="portfolio-details.html"></a>
+						</div>
+					</div>
+
+
+
+
 				</div>
 			</div>
 		</div>
@@ -312,15 +336,14 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Creative Design</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Problem Solving</h4>
+								<p>ProjectEuler+ , Java , Algorithms</p>
+								
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.hackerrank.com/gunawardhanauda1?hr_r=1" class="primary-btn" data-text="Haker Rank">
+									<span>H</span>a<span>k</span><span>e</span><span>r</span>
+									<span>R</span><span>a</span><span>n</span><span>k</span>
 								</a>
 							</div>
 						</div>
@@ -335,15 +358,14 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Projects</h4>
+								<p>Web Design , Application</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://github.com/DilshanDilipudara" class="primary-btn" data-text="git hub">
+									<span>g</span><span>i</span><span>t</span>
+									<span>h</span><span>u</span><span>b</span>
+									
 								</a>
 							</div>
 						</div>
@@ -358,15 +380,12 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Junior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Blogger</h4>
+								<p>problems Discussion</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.blogger.com/blogger.g?blogID=4789871501629630808#allposts" class="primary-btn" data-text="Blogger">
+									<span>B</span><span>l</span><span>o</span><span>g</span><span>g</span><span>e</span><span>r</span>
 								</a>
 							</div>
 						</div>
@@ -381,15 +400,14 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Intern Designer</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Sololearn</h4>
+								<p>quice , courses</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.sololearn.com/Profile/10480342" class="primary-btn" data-text="Sololearn">
+									<span>S</span><span>o</span><span>l</span><span>o</span>
+									<span>L</span><span>e</span><span>a</span><span>r</span><span>n</span>
+									
 								</a>
 							</div>
 						</div>
@@ -430,7 +448,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-laptop-phone"></span>
-						<h4><span>Application</span> Development
+						<h4><span>Android</span> Development
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -438,7 +456,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
 						<span class="lnr lnr-database"></span>
-						<h4><span>Web</span> Development
+						<h4><span>Database</span> Design
 						</h4>
 						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
 					</div>
@@ -463,8 +481,8 @@
 			<div class="testi_slider owl-carousel">
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
+						<img src="img/fb.png" alt="">
+						<h4>Facebook</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -483,7 +501,7 @@
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
+						<h4>Linkend</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -502,7 +520,7 @@
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
+						<h4>Twitter</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -540,7 +558,7 @@
 			<div class="row mt-80">
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>+94-717378668</h4>
+						<h4>+94717378668</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
@@ -581,13 +599,13 @@
 					<div class="footer-top flex-column">
 						<div class="footer-logo">
 							<a href="#">
-								<img src="img/logo.png" alt="">
+								<img src="img/Cletter.png" alt="">
 							</a>
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
 							<a href="https://www.facebook.com/dilshan.dilip"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="https://twitter.com/DilshanDilip3"><i class="fa fa-twitter"></i></a>
 							<a href="https://github.com/DilshanDilipudara"><i class="fa fa-github"></i></a>
 							<a href="https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/"><i class="fa fa-linkedin"></i></a>
 						</div>
@@ -597,7 +615,7 @@
 			<div class="row footer-bottom justify-content-center">
 				<p class="col-lg-8 col-sm-12 footer-text">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Silent Geeks</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>
 		</div>

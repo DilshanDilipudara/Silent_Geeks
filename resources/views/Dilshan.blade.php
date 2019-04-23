@@ -48,7 +48,7 @@
 		<div class="container main-menu">
 			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="/Dilshan"><img src="img/Cletter.png" alt="" title="" /></a>
+					<a href="/Dilshan"><img src="img/Dlett.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -56,7 +56,6 @@
 
 						<li class="menu-has-children"><a href="#">Pages</a>
 							<ul>
-								<li><a href="/Dilshan">Dilshan Dilip</a></li>
 								<li><a href="/Rayan">Rayan Aradha</a></li>
 								<li><a href="/Chamikara">Chamikara </a></li>
 							</ul>
@@ -79,9 +78,9 @@
 					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
 					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Dilshan Dilip Udara</h1>
 					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
-						3rd year
-						<span class="designer">Computer Science</span>
-					    Undergraduate Student of
+					   Undergraduate Student in
+						<span class="designer"> Department of Computer Science</span>
+					      in
 						<span class="developer">University of Jaffna.</span>
 					</div>
 					<a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="primary-btn" data-text="Hire Me">
@@ -152,14 +151,16 @@
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-						       I am third year computer scince <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a> student of university of Jaffna. 
-							   I am interst about field of web development. Also I have a basic knowledge about android app development. So I hope 
-							   to build my carrier in those field.
+						       Dilshan is a <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a>  student of university of Jaffna. 
+							   who has excellent ability in problem solving, leadership, programming and also team playing.
+							   He is the leader of Team SilentGeeks. He is a developper in Laravel,Java,android Studio,vuejs,php 
+                               
 						</p>
-						<p>That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often
-							laughed. 
-						
-						</p>
+					      
+						<h4> 
+						Someone who can turn their worst defeat into their best win.
+						</h4>
+
 					</div>
 					<a href="#" class="primary-btn white" data-text="More Info">
 						<span>M</span>
@@ -194,8 +195,7 @@
 				<div class="col-lg-6">
 					<div class="section-title">
 						<h2>Life Event</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<p>I enjoy life with my family and colleagues. This is some of my recent memories.</p>
 					</div>
 				</div>
 
@@ -221,7 +221,7 @@
 							</div>
 							<div class="middle">
 								<h4>University Life</h4>
-								<div class="cat">Friend with funs</div>
+								<div class="cat">Fun with friends.</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -248,7 +248,7 @@
 							</div>
 							<div class="middle">
 								<h4>Sports</h4>
-								<div class="cat">Elle in a my favor </div>
+								<div class="cat">Elle in a my favourite sport </div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -275,7 +275,7 @@
 							</div>
 							<div class="middle">
 								<h4>Function in UOJ</h4>
-								<div class="cat">Holy</div>
+								<div class="cat">Holly</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -326,9 +326,8 @@
 			<div class="row d-flex">
 				<div class="col-lg-12">
 					<div class="section-title">
-						<h2>Job History</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>My Activities</h2>
+						<p>I do this activities to develop my knowledge.</p>
 					</div>
 				</div>
 			</div>
@@ -350,8 +349,7 @@
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							Hacker Rank is famous problem sloving platfrom.I use this platfrom to develop my problem sloving knowledge.
 						</div>
 					</div>
 				</div>
@@ -372,8 +370,7 @@
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							I maintain a github account.If you like to join me with your project contact me through the my github account.
 						</div>
 					</div>
 				</div>
@@ -392,8 +389,7 @@
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							I share my knowledge with socity using blogger account.I think its help to you.
 						</div>
 					</div>
 				</div>
@@ -403,7 +399,7 @@
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
 								<h4>Sololearn</h4>
-								<p>quice , courses</p>
+								<p>quiz , courses</p>
 							</div>
 							<div class="top-right">
 								<a href="https://www.sololearn.com/Profile/10480342" class="primary-btn" data-text="Sololearn">
@@ -414,8 +410,8 @@
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+								Solo Learn help to develop my programing language knowledge.I learn many programing language using this platfrom. 
+								I spent most of my free time to solve quiz.  
 						</div>
 					</div>
 				</div>
@@ -432,8 +428,7 @@
 				<div class="col-lg-12">
 					<div class="section-title">
 						<h2>Service Offers</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<p>I have good knowldge and practical experiennce in those fields.</p>
 					</div>
 				</div>
 			</div>
@@ -444,7 +439,7 @@
 						<h4>
 							<span>Web</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>I have good experience and knowledge about design web page.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -452,7 +447,7 @@
 						<span class="lnr lnr-laptop-phone"></span>
 						<h4><span>Android</span> Development
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>Android development is one of best ability of mine.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -460,7 +455,7 @@
 						<span class="lnr lnr-database"></span>
 						<h4><span>Database</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>I have experience to create, develop, handle large size of database through mysql,firebase.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -468,7 +463,7 @@
 						<span class="lnr lnr-chart-bars"></span>
 						<h4><span>Web</span> Development
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>I can fix errors, add new functionality to exisiting web page.</p>
 					</div>
 				</div>
 			</div>
@@ -551,8 +546,8 @@
 				<div class="col-lg-12">
 					<div class="contact-title">
 						<h2>Contact Me</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h4>If you need any help regarding website or mobile application</h4>
+						<h4>          you are free to contact me.     </h4>
 					</div>
 				</div>
 			</div>
@@ -601,7 +596,7 @@
 					<div class="footer-top flex-column">
 						<div class="footer-logo">
 							<a href="#">
-								<img src="img/Cletter.png" alt="">
+								<img src="img/Dlett.png" alt="">
 							</a>
 							<h4>Follow Me</h4>
 						</div>
@@ -617,7 +612,7 @@
 			<div class="row footer-bottom justify-content-center">
 				<p class="col-lg-8 col-sm-12 footer-text">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Silent Geeks</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | SilentGeeks</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>
 		</div>

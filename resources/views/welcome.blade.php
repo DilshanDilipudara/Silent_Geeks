@@ -35,11 +35,11 @@
 					<div class="header-wrap">
 						<div class="header-top d-flex justify-content-between align-items-center">
 							<div class="logo">
-								<a href="index.html"><img src="img/Cletter.png" alt=""></a>
+								<a href="/"><img src="img/logo.png" alt=""></a>
 							</div>
 							<div class="main-menubar d-flex align-items-center">
-								<nav class="hide">
-									<a href="/">Home</a>
+								<nav class="">
+									
 									<a href="/Dilshan">Dilshan</a>
 									<a href="/Rayan">Rayan</a>
 									<a href="/Chamikara">Chamikara</a>
@@ -61,13 +61,14 @@
 							<div class="banner-content">
 								<h1>Silent Geeks</h1>
 								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women.s
+								We are Silent Geeks..Hackathon Team with skill of problem sloving from Faculty of Computer Science University of Jaffna.
 								</p>
-								<button class="primary-btn white-bg d-inline-flex align-items-center mt-10 ml-auto"><span class="mr-10">Send Message</span><span class="lnr lnr-arrow-right"></span></button>
+							<a href="https://www.facebook.com/dilshan.dilip">	<button class="primary-btn white-bg d-inline-flex align-items-center mt-10 ml-auto"><span class="mr-10">Send Message</span><span class="lnr lnr-arrow-right"></span></button>
+							</a>
 							</div>
 						</div>
 						<div class="col-lg-5 col-sm-6 col-xs-6">
-							<img class="img-fluid mx-auto" src="maze/img/header-img.png" alt="">
+							<img class="img-fluid mx-auto" src="img/banner-img.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -81,23 +82,23 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
-							<img class="img-fluid" src="img/p1.jpg" alt="">
+							<img class="img-fluid" src="img/Rayan2.jpg" alt="">
 							<div class="desc">
 								<h2>Rayan Aradha</h2>
 								<p>
-									Here, I focus on a range of items and features that we use in life without giving them a  thought. such as Coca Cola.
+								I'm currently 3rd year Computer Science undergraduate at University of Jaffna
 								</p>
-								<a class="text-uppercase" href="/Rayan">Learn Details</a>
+								<a class="text-uppercase" href="/Rayan">More Details</a>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
 							<img src="img/p2.jpg" alt="">
 							<div class="desc">
-								<h2>Dilshan Dilip</h2>
+								<h2>Dilshån Dilip</h2>
 								<p>
-									Here, I focus on a range of items and features that we use in life without giving them a  thought. such as Coca Cola.
+							      Dilshån is a udergraduate student of University of Jaffna. I am interested in web desing and mobile application development .
 								</p>
-								<a class="text-uppercase" href="/Dilshan">Learn Details</a>
+								<a class="text-uppercase" href="/Dilshan">More Details</a>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
@@ -105,9 +106,9 @@
 							<div class="desc">
 								<h2>Pramudhitha Chamikara</h2>
 								<p>
-									Here, I focus on a range of items and features that we use in life without giving them a  thought. such as Coca Cola.
+								I'm currently 3rd year Computer Science undergraduate at University of Jaffna.I am interested in mobile app development.
 								</p>
-								<a class="text-uppercase" href="/Chamikara">Learn Details</a>
+								<a class="text-uppercase" href="/Chamikara">More Details</a>
 							</div>
 						</div>
 					</div>
@@ -120,7 +121,7 @@
 					<div class="row">
 						<div class="col-md-6 text-center offer-left">
 							<div class="offer_desc p-20">
-								<h2>Mountainå Maniac</h2>
+								<h2>Save Sri Lanka</h2>
 								<p>
 									LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create slimmer, more portable technology than we’ve ever had access to before.
 								</p>
@@ -128,7 +129,7 @@
 						</div>
 						<div class="col-md-6 text-center offer-right">
 							<div class="offer_desc p-20">
-								<h2>Foggy Mountain</h2>
+								<h2>Protect Animals</h2>
 								<p>
 									LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create slimmer, more portable technology than we’ve ever had access to before.
 								</p>
@@ -148,10 +149,10 @@
 						<a href="img/g2.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g2.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
-						<a href="img/g3.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g3.jpg);"></div></a>
+						<a href="img/g3.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g4.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
-						<a href="img/g4.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g4.jpg);"></div></a>
+						<a href="img/g4.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g3.jpg);"></div></a>
 					</div>
 					<div class="col-md-4 single-item">
 						<a href="img/g5.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/g5.jpg);"></div></a>
@@ -174,37 +175,37 @@
 								<span class="lnr lnr-line-spacing"></span>
 							</div>
 							<div class="desc">
-								<h2>Parallax Support</h2>
+								<h2>UoJCodders v1.0</h2>
 								<p>
-									Lorem ipsum dolor sit ametconsec tetur adipisicing elit.
+								From  200+ competitive teams of the all over the universites of SriLanka Our team Silent Geeks get selected to final 15 teams of the UoJCodders version 1 which organized by university of Jaffna.
 								</p>
 							</div>
 						</div>
 						<div class="single_process col-md-4 p-10">
 							<div class="icon">
-								<span class="lnr lnr-camera-video"></span>
+								<span class="lnr lnr-sync"></span>
 							</div>
 							<div class="desc">
-								<h2>HTML5 Video</h2>
+								<h2>CCUoJ v1.0</h2>
 								<p>
-									Lorem ipsum dolor sit ametconsec tetur adipisicing elit.
+								 Our team achieved the 5th place CCUoJ v1.0 Intra University Coding Competition, which organized by IEEE branch of University of Jaffna.
 								</p>
 							</div>
 
 						</div>
 						<div class="single_process col-md-4 p-10">
 							<div class="icon">
-								<span class="lnr lnr-screen"></span>
+								<span class="lnr lnr-book"></span>
 							</div>
 							<div class="desc">
-								<h2>Retina Ready Graphics</h2>
+								<h2>Aces coders v7.0 </h2>
 								<p>
-									Lorem ipsum dolor sit ametconsec tetur adipisicing elit.
+							  	        We participate Aces coders v7.0  which is organized by university of Peradeniya
 								</p>
 							</div>
 
 						</div>
-						<div class="single_process col-md-4 p-10">
+						<!-- <div class="single_process col-md-4 p-10">
 							<div class="icon">
 								<span class="lnr lnr-sync"></span>
 							</div>
@@ -224,7 +225,7 @@
 								<p>
 								Lorem ipsum dolor sit ametconsec tetur adipisicing elit.
 							</p>
-							</div>
+							</div> 
 
 						</div>
 						<div class="single_process col-md-4 p-10">
@@ -238,6 +239,7 @@
 								</p>
 							</div>
 						</div>
+						-->
 					</div>
 				</div>
 			</section>
@@ -271,7 +273,7 @@
 			</section>
 			<!-- End About Area -->
 			<!-- Newsletter Area -->
-			<section class="newsletter-area pt-60 pb-60">
+			<!-- <section class="newsletter-area pt-60 pb-60">
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
 						<div class="text-center">
@@ -290,18 +292,20 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- End Newsletter Area -->
 			<!-- Start footer Area -->
+			<br><br>
 			<footer class="footer-area relative pt-60 pb-60">
 				<div class="container">
 					<div class="footer-content d-flex flex-column align-items-center">
-						<div class="text-center copy-right-text">Copyright &copy; 2017 All rights reserved   |   This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com">Colorlib</a></div>
+						<div class="text-center copy-right-text">Copyright &copy; All rights reserved  <i class="fa fa-heart"></i> by <a href="/"> SilentGeeks</a></div>
 						<div class="footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
+							<a href="https://www.facebook.com/dilshan.dilip"><i class="fa fa-facebook"></i></a>
+							<a href="https://twitter.com/DilshanDilip3"><i class="fa fa-twitter"></i></a>
+							<a href="https://github.com/DilshanDilipudara"><i class="fa fa-github"></i></a>
+							<a href="https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/"><i class="fa fa-linkedin"></i></a>
+					
 						</div>
 					</div>
 				</div>

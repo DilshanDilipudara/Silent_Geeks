@@ -1937,7 +1937,7 @@ nav a:hover {
 
 @media (max-width: 767px) {
   nav a {
-    color: #f67590;
+    color: #75f67c;
   }
   nav a:hover {
     color: #f67590 !important;
@@ -1945,7 +1945,7 @@ nav a:hover {
 }
 
 body {
-  background: #f67590;
+  background: #1d0722fb;
 }
 
 .main-wrapper-first {
@@ -2061,7 +2061,7 @@ body {
 }
 
 .main-wrapper-first {
-  background: #f66483;
+  background: #4e2946;
 }
 
 .banner-content {
@@ -2087,7 +2087,7 @@ body {
 }
 
 .banner-area {
-  background: #f66483;
+  background: #3f3134;
 }
 
 .featured-area {
