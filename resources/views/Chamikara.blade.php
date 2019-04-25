@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
-
 <head>
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,7 +14,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Kenedy Personal</title>
+	<title>Pramudhitha Chamikara</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -43,12 +42,12 @@
 	<!-- End Preloader Area -->
 
 
+			<div class="row align-items-center d-flex">
 	<!-- Start Header Area -->
 	<header id="header">
 		<div class="container main-menu">
-			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="/Dilshan"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="/Chamikara"><img src="img/Cletter.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -56,9 +55,9 @@
 
 						<li class="menu-has-children"><a href="#">Pages</a>
 							<ul>
-								<li><a href="/Dilshan">Dilshan Dilip</a></li>
+								<li><a href="/Dilip">Dilshan Dilip</a></li>
 								<li><a href="/Rayan">Rayan Aradha</a></li>
-								<li><a href="/chamikara">Chamikara </a></li>
+							
 							</ul>
 						</li>
 				
@@ -79,12 +78,12 @@
 					<div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
 					<h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Pramudhitha Chamikara</h1>
 					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
-						Senior Creative
-						<span class="designer">Designer</span>
-						and Content
-						<span class="developer">Developer</span>
+						Undergraduate student studying
+						<span class="designer">Computer Science</span>
+						in
+						<span class="developer"><a href="http://www.jfn.ac.lk/">University of Jaffna</a></span>
 					</div>
-					<a href="#" class="primary-btn" data-text="Hire Me">
+					<a href="mailto:pramudithachamikara@gmail" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -142,19 +141,19 @@
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
-						<h2>about myselt</h2>
+						<h2>about myself</h2>
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-							inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the
-							workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior
-							is often laughed. inappropriate behavior is often laughed off as “boys will be boys,” women face higher.
+							I am a <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a> fowllowing computer science degree in university of jaffna.
+							Currently I'm in my second year and very enthusiastic about computer science.
+							I enjoy working as a team, do programming, solving problems, building systems using many programming languages.
+							
 						</p>
-						<p>That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often
-							laughed.
+						<p>Java, Javascript, Perl are my best and I also good at mobile development using React Native.
 						</p>
 					</div>
-					<a href="#" class="primary-btn white" data-text="More Info">
+					<a href="https://www.linkedin.com/in/chamikaratdp" class="primary-btn white" data-text="More Info">
 						<span>M</span>
 						<span>o</span>
 						<span>r</span>
@@ -186,22 +185,10 @@
 			<div class="row d-flex justify-content-between align-items-end mb-80">
 				<div class="col-lg-6">
 					<div class="section-title">
-						<h2>Latest Works</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>Life events</h2>
+						<p>I enjoy my free time with friends.</p>
 					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="filters">
-						<ul>
-							<li class="active" data-filter=".all">All Categories</li>
-							<li data-filter=".branding">Branding</li>
-							<li data-filter=".creative">Creative Work</li>
-							<li data-filter=".web-design">Web Design</li>
-						</ul>
-					</div>
-				</div>
+				</div>				
 			</div>
 
 			<div class="filters-content">
@@ -210,11 +197,11 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w1.jpg" alt="">
+								<img class="image img-fluid" src="img/c1.JPG" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Vesak Festival</h4>
+								<div class="cat">Dansal event</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -223,37 +210,39 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w2.jpg" alt="">
+								<img class="image img-fluid" src="img/c2.JPG" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Vesak eve</h4>
+								<div class="cat">Lighning oil lamps</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+					
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w3.jpg" alt="">
+								<img class="image img-fluid" src="img/c3.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Travelling</h4>
+								<div class="cat">To naga dipa</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
 					</div>
+					
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w6.jpg" alt="">
+								<img class="image img-fluid" src="img/c4.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Travelling</h4>
+								<div class="cat">Batch trip to Hanthana</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -262,11 +251,11 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w4.jpg" alt="">
+								<img class="image img-fluid" src="img/c5.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>New Year</h4>
+								<div class="cat">sinhala and tamil new year at UOJ</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -275,11 +264,11 @@
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/work/w5.jpg" alt="">
+								<img class="image img-fluid" src="img/c6.jpg" alt="">
 							</div>
 							<div class="middle">
-								<h4>2D Vinyl Design</h4>
-								<div class="cat">Client Project</div>
+								<h4>Party</h4>
+								<div class="cat">Birthday party at Rajah</div>
 							</div>
 							<a class="overlay" href="portfolio-details.html"></a>
 						</div>
@@ -297,9 +286,8 @@
 			<div class="row d-flex">
 				<div class="col-lg-12">
 					<div class="section-title">
-						<h2>Job History</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>My Activities</h2>
+						<p>These are some activities I do for gain knowledge and practise.</p>
 					</div>
 				</div>
 			</div>
@@ -309,21 +297,17 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Creative Design</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Projects</h4>
+								<p>Mobile development, web design and development</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://github.com/ChamikaraTDP" class="primary-btn" data-text="GitHub">									
+									<span>G</span><span>i</span><span>t</span><span>H</span><span>u</span><span>b</span>
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							I posted my past projects on github.
 						</div>
 					</div>
 				</div>
@@ -332,21 +316,17 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Senior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Problem Solving</h4>
+								<p>ProjectEuler+, 30days of code, Algorithms</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://www.hackerrank.com/ChamiTDP" class="primary-btn" data-text="HackerRank">
+									<span>H</span><span>a</span><span>c</span><span>k</span><span>e</span><span>r</span><span>R</span><span>a</span><span>n</span><span>k</span>
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							I have engaged in problem solving challenges in hackerrank platform.
 						</div>
 					</div>
 				</div>
@@ -355,21 +335,17 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Junior Visualiser</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Blog site</h4>
+								<p>Computer science, problem discussion</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
-									<span>t</span><span>o</span>
-									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
+								<a href="https://pramudithablog.wordpress.com/" class="primary-btn" data-text="WordPress">
+									<span>W</span><span>o</span><span>r</span><span>d</span><span>P</span><span>r</span><span>e</span>s<span>s</span>									
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							I have posted some articles about computer security, Algorithms and my thoughts about some problems I faced.
 						</div>
 					</div>
 				</div>
@@ -378,21 +354,20 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Intern Designer</h4>
-								<p>Old Bird IT, New Yorkt</p>
+								<h4>Competitions</h4>
+								<p>Hackathons, coding</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Jul '15 to Present">
-									<span>J</span><span>u</span><span>l</span>
-									<span>'</span><span>1</span><span>5</span>
+								<a href="#" class="primary-btn" data-text="Oct 2017 to Present">
+									<span>O</span><span>c</span><span>t</span>
+									<span>2</span><span>0</span><span>1</span><span>7</span>
 									<span>t</span><span>o</span>
 									<span>P</span><span>r</span><span>e</span><span>s</span><span>e</span><span>n</span><span>t</span>
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							I have participated to many hackathons and coding competitions like <a href="https://twitter.com/UNDPSriLanka/status/924216320362610688">hackadev,</a> <a href="https://aces.ce.pdn.ac.lk/coders/">acescoders,</a> <a href="https://twitter.com/chamikaratdp/status/1107042446532198400" >uojcoders.</a>
 						</div>
 					</div>
 				</div>
@@ -403,14 +378,13 @@
 
 
 	<!-- Start Service Area -->
-	<section class="service-area section-gap">
+<section class="service-area section-gap">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-title">
 						<h2>Service Offers</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<p>I have good knowldge and experiennce in these fields.</p>
 					</div>
 				</div>
 			</div>
@@ -421,23 +395,23 @@
 						<h4>
 							<span>Web</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>I have good experience and knowledge about design web page.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-laptop-phone"></span>
-						<h4><span>Application</span> Development
+						<h4><span>Android</span> Development
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>Mobile development using react native for both IOS and Andoid.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
 						<span class="lnr lnr-database"></span>
-						<h4><span>Web</span> Development
+						<h4><span>Database</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>I have experience to create, develop, handle large size of database through mysql,firebase.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -445,81 +419,13 @@
 						<span class="lnr lnr-chart-bars"></span>
 						<h4><span>Web</span> Development
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p>Develop web sites both the front end and back end.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End Service Area -->
-
-
-	<!-- Start Testimonials Area -->
-	<section class="testimonials_area section-gap">
-		<div class="container">
-			<div class="testi_slider owl-carousel">
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Fanny Spencer</h4>
-						<ul class="list">
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-						</ul>
-						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Testimonials Area -->
-
 
 	<!-- Start Contact Area -->
 	<section class="contact-area section-gap">
@@ -528,8 +434,8 @@
 				<div class="col-lg-12">
 					<div class="contact-title">
 						<h2>Contact Me</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<p>If you need any help regarding website or mobile application
+							you are free to contact me.</p>
 					</div>
 				</div>
 			</div>
@@ -537,17 +443,17 @@
 			<div class="row mt-80">
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>+94-717378668</h4>
+						<h4>+94-719939729</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>gunawardhanaudara@gmail.com</h4>
+						<a href="mailto:pramudithachamikara@gmail"><h4>pramudithachamikara@gmail.com</h4></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>DilshanDilip.me</h4>
+						<a href="https://pramudithablog.wordpress.com/"><h4>wordpress</h4></a>
 					</div>
 				</div>
 			</div>
@@ -578,15 +484,15 @@
 					<div class="footer-top flex-column">
 						<div class="footer-logo">
 							<a href="#">
-								<img src="img/logo.png" alt="">
+								<img src="img/Cletter.png" alt="">
 							</a>
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
-							<a href="https://www.facebook.com/dilshan.dilip"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="https://github.com/DilshanDilipudara"><i class="fa fa-github"></i></a>
-							<a href="https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/"><i class="fa fa-linkedin"></i></a>
+							<a href="https://www.facebook.com/profile.php?id=100010266342345"><i class="fa fa-facebook"></i></a>
+							<a href="https://twitter.com/chamikaratdp"><i class="fa fa-twitter"></i></a>
+							<a href="https://github.com/ChamikaraTDP"><i class="fa fa-github"></i></a>
+							<a href="https://www.linkedin.com/in/chamikaratdp"><i class="fa fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>
@@ -594,7 +500,7 @@
 			<div class="row footer-bottom justify-content-center">
 				<p class="col-lg-8 col-sm-12 footer-text">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script>All rights reserved | SilentGeeks </a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>
 		</div>
