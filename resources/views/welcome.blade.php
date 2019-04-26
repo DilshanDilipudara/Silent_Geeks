@@ -14,7 +14,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Maze</title>
+	<title>SilentGeeks</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
 		<!--
@@ -38,9 +38,9 @@
 								<a href="/"><img src="img/logo.png" alt=""></a>
 							</div>
 							<div class="main-menubar d-flex align-items-center">
-								<nav class="">
+								<nav class="hide">
 									
-									<a href="/Dilshan">Dilshan</a>
+									<a href="/Dilip">Dilshan</a>
 									<a href="/Rayan">Rayan</a>
 									<a href="/Chamikara">Chamikara</a>
 								</nav>
@@ -61,14 +61,14 @@
 							<div class="banner-content">
 								<h1>Silent Geeks</h1>
 								<p>
-								We are Silent Geeks..Hackathon Team with skill of problem sloving from Faculty of Computer Science University of Jaffna.
+								We are Silent Geeks.. Hackathon Team with skill of problem sloving from Faculty of Computer Science University of Jaffna.
 								</p>
-							<a href="https://www.facebook.com/dilshan.dilip">	<button class="primary-btn white-bg d-inline-flex align-items-center mt-10 ml-auto"><span class="mr-10">Send Message</span><span class="lnr lnr-arrow-right"></span></button>
+							<a href="https://chat.whatsapp.com/B7GdEEWxoUUDWbYTCl91dm">	<button class="primary-btn white-bg d-inline-flex align-items-center mt-10 ml-auto"><span class="mr-10">Send Message</span><span class="lnr lnr-arrow-right"></span></button>
 							</a>
 							</div>
 						</div>
 						<div class="col-lg-5 col-sm-6 col-xs-6">
-							<img class="img-fluid mx-auto" src="img/banner-img.png" alt="">
+							<img class="img-fluid mx-auto" src="img/d3.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
-							<img class="img-fluid" src="img/Rayan2.jpg" alt="">
+							<img class="img-fluid" src="img/p3.jpg" alt="">
 							<div class="desc">
 								<h2>Rayan Aradha</h2>
 								<p>
@@ -92,13 +92,13 @@
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
-							<img src="img/p2.jpg" alt="">
+							<img src="img/Dilshanfont.png" alt="">
 							<div class="desc">
 								<h2>Dilshån Dilip</h2>
 								<p>
 							      Dilshån is a udergraduate student of University of Jaffna. I am interested in web desing and mobile application development .
 								</p>
-								<a class="text-uppercase" href="/Dilshan">More Details</a>
+								<a class="text-uppercase" href="/Dilip">More Details</a>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
@@ -123,7 +123,7 @@
 							<div class="offer_desc p-20">
 								<h2>Save Sri Lanka</h2>
 								<p>
-									LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create slimmer, more portable technology than we’ve ever had access to before.
+							         Although mother illuminated the world, the breath is gifted by plant generation which is the mother of all human kind.
 								</p>
 							</div>
 						</div>
@@ -131,7 +131,7 @@
 							<div class="offer_desc p-20">
 								<h2>Protect Animals</h2>
 								<p>
-									LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create slimmer, more portable technology than we’ve ever had access to before.
+                                   All animals can not be cherished because of not ejecting filth aright. 
 								</p>
 							</div>
 						</div>

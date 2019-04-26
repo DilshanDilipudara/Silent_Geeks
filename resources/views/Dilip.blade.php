@@ -83,7 +83,7 @@
 					      in
 						<span class="developer">University of Jaffna.</span>
 					</div>
-					<a href="https://www.facebook.com/dilshan.dilip" class="primary-btn" data-text="Hire Me">
+					<a href="https://chat.whatsapp.com/B7GdEEWxoUUDWbYTCl91dm" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -94,7 +94,7 @@
 					</a>
 				</div>
 				<div class="banner-img col-lg-6 col-md-6 align-self-end">
-					<img class="img-fluid" src="img/banner-img.png" alt="">
+					<img class="img-fluid" src="img/d3.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -143,7 +143,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 about-left">
-					<img class="img-fluid" src="img/about-img.jpg" alt="">
+					<img class="img-fluid" src="img/d4.png" alt="">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
@@ -173,7 +173,7 @@
 						<span>f</span>
 						<span>o</span>
 					</a>
-					<a href="#" class="primary-btn" data-text="Resume">
+					<a href="/DilshanCv" class="primary-btn" data-text="Resume">
 						<span>R</span>
 						<span>e</span>
 						<span>s</span>
@@ -202,8 +202,8 @@
 				<div class="col-lg-6">
 					<div class="filters">
 						<ul>
-							<li class="active" data-filter=".all">All Categories</li>
-							<!-- <li data-filter=".branding">Sport</li>
+							<!-- <li class="active" data-filter=".all">All Categories</li>
+							<li data-filter=".branding">Sport</li>
 							<li data-filter=".creative">Party</li>
 							<li data-filter=".web-design">Competion</li> -->
 						</ul>
@@ -223,7 +223,7 @@
 								<h4>University Life</h4>
 								<div class="cat">Fun with friends.</div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/dilshan6.jpg"></a>
 						</div>
 					</div>
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -236,7 +236,7 @@
 								<h4>Relax Time </h4>
 								<div class="cat">Travel</div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/dilshan4.jpg"></a>
 						</div>
 					</div>
 
@@ -250,7 +250,7 @@
 								<h4>Sports</h4>
 								<div class="cat">Elle in a my favourite sport </div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/dilshan5.jpg"></a>
 						</div>
 					</div>
 					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
@@ -263,7 +263,7 @@
 								<h4>Coding Competion</h4>
 								<div class="cat">UoJ Coders</div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/dilshan7.jpg"></a>
 						</div>
 					</div>
 
@@ -277,7 +277,7 @@
 								<h4>Function in UOJ</h4>
 								<div class="cat">Holly</div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/dilshan8.jpg"></a>
 						</div>
 					</div>
 
@@ -291,7 +291,7 @@
 								<h4>UoJ</h4>
 								<div class="cat">Sinhala And Tamil New Year</div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/dilshan9.jpg"></a>
 						</div>
 					</div>
 
@@ -306,7 +306,7 @@
 								<h4>University of Jaffna </h4>
 								<div class="cat">My Heart</div>
 							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
+							<a class="overlay" href="img/uoj.jpg"></a>
 						</div>
 					</div>
 
@@ -470,16 +470,23 @@
 		</div>
 	</section>
 	<!-- End Service Area -->
+ 
 
 
 	<!-- Start Testimonials Area -->
 	<section class="testimonials_area section-gap">
 		<div class="container">
+		<div class="section-title">
+						<h2>My Best</h2>
+						<p>I can easy to do the project using these languages.</p>
+					</div>
+		
 			<div class="testi_slider owl-carousel">
 				<div class="item">
+			
 					<div class="testi_item">
-						<img src="img/fb.png" alt="">
-						<h4>Facebook</h4>
+						<img src="img/brand/android.png" alt="">
+						<h4>Android Studio</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -497,8 +504,8 @@
 				</div>
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Linkend</h4>
+						<img src="img/brand/java.png" alt="">
+						<h4>Java</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -514,10 +521,31 @@
 						</div>
 					</div>
 				</div>
+              
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Twitter</h4>
+						<img src="img/brand/mysql.png" alt="">
+						<h4>MySQL</h4>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+						</ul>
+						<div class="wow fadeIn" data-wow-duration="1s">
+							<p>
+								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
+								across her face <br> and She is the host to your journey.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="testi_item">
+						<img src="img/brand/laravel2.png" alt="">
+						<h4>Laravel</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -555,7 +583,7 @@
 			<div class="row mt-80">
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>+94 71 73 78 668</h4>
+						<h4>+94 71  73 78 668</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
@@ -572,7 +600,7 @@
 
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<a href="#" class="primary-btn mt-50" data-text="Hire Me">
+					<a href="https://chat.whatsapp.com/B7GdEEWxoUUDWbYTCl91dm" class="primary-btn mt-50" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>

@@ -33,7 +33,7 @@
       <div id="paper-mid">
         <div class="entry">
           <!-- Begin Image -->
-          <img class="portrait" src="images/image.jpg" alt="John Smith" />
+          <img class="portrait" src="img/p2.jpg" alt="John Smith" />
           <!-- End Image -->
           <!-- Begin Personal Information -->
           <div class="self">
@@ -49,15 +49,16 @@
           </div>
           <!-- End Personal Information -->
           <!-- Begin Social -->
-          <div class="social">
+          <!-- <div class="social">
             <ul>
-              <li><a class='north' href="#" title="Download .pdf"><img src="images/icn-save.jpg" alt="Download the pdf version" /></a></li>
+              <li><a class='north' href="/pdfdownload" title="Download .pdf"><img src="images/icn-save.jpg" alt="Download the pdf version" /></a></li>
               <li><a class='north' href="javascript:window.print()" title="My github Profile"><img src="images/icn-print.jpg" alt="" /></a></li>
               <li><a class='north' id="contact" href="contact/index.html" title="My Linkend Profile"><img src="images/icn-contact.jpg" alt="" /></a></li>
               <li><a class='north' href="#" title="Follow me on Twitter"><img src="images/icn-twitter.jpg" alt="" /></a></li>
               <li><a class='north' href="#" title="My Facebook Profile"><img src="images/icn-facebook.jpg" alt="" /></a></li>
+
             </ul>
-          </div>
+          </div> -->
           <!-- End Social -->
         </div>
         <!-- Begin 1st Row -->

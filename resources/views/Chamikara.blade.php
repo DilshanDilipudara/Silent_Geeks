@@ -164,7 +164,7 @@
 						<span>f</span>
 						<span>o</span>
 					</a>
-					<a href="#" class="primary-btn" data-text="Resume">
+					<a href="/ChamikaraCv" class="primary-btn" data-text="Resume">
 						<span>R</span>
 						<span>e</span>
 						<span>s</span>

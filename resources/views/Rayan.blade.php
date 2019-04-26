@@ -56,7 +56,7 @@
 
 						<li class="menu-has-children"><a href="#">Pages</a>
 							<ul>
-								<li><a href="/Dilshan">Dilshan Dilip</a></li>
+								<li><a href="/Dilip">Dilshan Dilip</a></li>
 						
 								<li><a href="/Chamikara">Chamikara </a></li>
 							</ul>

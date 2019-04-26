@@ -31,3 +31,11 @@ Route::get('/Dilip', function () {
 Route::get('/DilshanCv', function () {
     return view('DilshanCv');
 });
+
+Route::get('/RayanCv', function () {
+    return view('DilshanCv');
+});
+
+Route::get('/ChamikaraCv', function () {
+    return view('DilshanCv');
+});
