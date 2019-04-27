@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Resume</title>
+<title>Dilshan CV</title>
 <link type="text/css" rel="stylesheet" href="css/green.css" />
 <link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
 <!--[if IE 7]>
@@ -33,7 +33,7 @@
       <div id="paper-mid">
         <div class="entry">
           <!-- Begin Image -->
-          <img class="portrait" src="img/p2.jpg" alt="John Smith" />
+          <img class="portrait" src="img/dp.png" alt="John Smith" />
           <!-- End Image -->
           <!-- Begin Personal Information -->
           <div class="self">
@@ -64,7 +64,7 @@
         <!-- Begin 1st Row -->
         <div class="entry">
           <h2>OBJECTIVE</h2>
-          <p>A challenging enterprise laravel,android studio developerposition with an ambitions companany</p>
+          <p>A challenging enterprise laravel,android studio developer position with an ambitions companany</p>
         </div>
         <!-- End 1st Row -->
         <!-- Begin 2nd Row -->
@@ -72,8 +72,8 @@
           <h2>EDUCATION</h2>
           <div class="content">
             <h3>Jan 2000 - Aug 2013</h3>
-            <p>Moraketiya Maha Vidyalaya, Embilipitiya <br />
-              <em>primary education</em></p>
+            <p>Moraketiya Maha Vidyalaya, Embilipitiya, Sri Lanka. <br />
+              <em>O/L , A/L</em></p>
           </div>
           <div class="content">
             <h3>Apr 2016 - May 2021</h3>
@@ -84,24 +84,21 @@
         <!-- End 2nd Row -->
         <!-- Begin 3rd Row -->
         <div class="entry">
-          <h2>EXPERIENCE</h2>
+          <h2>Achievment</h2>
           <div class="content">
-            <h3>May 2009 - Feb 2010</h3>
-            <p>Agency Creative, London <br />
-              <em>Senior Web Designer</em></p>
-            <ul class="info">
-              <li>Vestibulum eu ante massa, sed rhoncus velit.</li>
-              <li>Pellentesque at lectus in <a href="#">libero dapibus</a> cursus. Sed arcu ipsum, varius at ultricies acuro, tincidunt iaculis diam.</li>
-            </ul>
+            <h3>UoJCodders v1.0</h3>
+            <p>From 200+ competitive teams of the all over the universites of SriLanka 
+			Our team Silent Geeks get selected to final 25 teams of the UoJCodders 
+			version 1 which organized by university of Jaffna.  <br />
+              </p>
           </div>
+
           <div class="content">
-            <h3>Jun 2007 - May 2009</h3>
-            <p>Junior Web Designer <br />
-              <em>Bachelor of Science in Graphic Design</em></p>
-            <ul class="info">
-              <li>Sed fermentum sollicitudin interdum. Etiam imperdiet sapien in dolor rhoncus a semper tortor posuere. </li>
-              <li>Pellentesque at lectus in libero dapibus cursus. Sed arcu ipsum, varius at ultricies acuro, tincidunt iaculis diam.</li>
-            </ul>
+            <h3>CCUoJ v1.0</h3>
+            <p>Our team achieved the 5th place
+			CCUoJ v1.0 Intra University Coding Competition, which organized by IEEE branch of University of Jaffna.<br />
+              </p>
+                  
           </div>
         </div>
         <!-- End 3rd Row -->
@@ -111,15 +108,11 @@
           <div class="content">
             <h3>Software Knowledge</h3>
             <ul class="skills">
-              <li>Photoshop</li>
-              <li>Illustrator</li>
-              <li>InDesign</li>
-              <li>word</li>
+              <li>MySQL</li>
+              <li>Word</li>
               <li>Excel</li>
               <li>Powerpoint</li>
-              <li>After Effects</li>
-              <li>Cinema 4D</li>
-              <li>Maya</li>
+              
             </ul>
           </div>
           <div class="content">
@@ -133,10 +126,19 @@
               <li>CSS/XHTML</li>
             </ul>
           </div>
+          <div class="content">
+            <h3>Programming Experience </h3>
+            <ul class="skills">
+              <li><a href="https://www.hackerrank.com/gunawardhanauda1?hr_r=1">Hacker Rank</a></li>
+              <li><a href="https://stackoverflow.com/users/11067799/udara-gunawardhana">Stackoverflow</a></li>
+              <li><a href="https://www.sololearn.com/Profile/10480342">Sololearn</a></li>
+              <li><a href="https://github.com/DilshanDilipudara">github</a></li>
+            </ul>
+          </div>
         </div>
         <!-- End 4th Row -->
          <!-- Begin 5th Row -->
-        <div class="entry">
+        <!-- <div class="entry">
         <h2>WORKS</h2>
         	<ul class="works">
         		<li><a href="images/1.jpg" rel="gallery" title="Lorem ipsum dolor sit amet."><img src="images/image.jpg" alt="" /></a></li>
@@ -148,7 +150,7 @@
         		<li><a href="images/1.jpg" rel="gallery" title="Lorem ipsum dolor sit amet."><img src="images/image.jpg" alt="" /></a></li>
         		<li><a href="images/1.jpg" rel="gallery" title="Lorem ipsum dolor sit amet."><img src="images/image.jpg" alt="" /></a></li>
         	</ul>
-        </div>
+        </div> -->
         <!-- Begin 5th Row -->
       </div>
       <div class="clear"></div>

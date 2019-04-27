@@ -33,9 +33,9 @@ Route::get('/DilshanCv', function () {
 });
 
 Route::get('/RayanCv', function () {
-    return view('DilshanCv');
+    return view('RayanCv');
 });
 
 Route::get('/ChamikaraCv', function () {
-    return view('DilshanCv');
+    return view('hamikaraCv');
 });

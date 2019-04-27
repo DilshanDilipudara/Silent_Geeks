@@ -82,7 +82,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 col-sm-12 single-feature pt-80 pb-80 d-flex flex-row">
-							<img class="img-fluid" src="img/p3.jpg" alt="">
+							<img class="img-fluid" src="img/Rayan2.jpg" alt="">
 							<div class="desc">
 								<h2>Rayan Aradha</h2>
 								<p>

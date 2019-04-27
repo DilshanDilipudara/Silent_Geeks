@@ -48,7 +48,7 @@
 		<div class="container main-menu">
 			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="/Dilshan"><img src="img/Cletter.png" alt="" title="" /></a>
+					<a href="/Dilshan"><img src="img/Rletter.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -590,7 +590,7 @@
 					<div class="footer-top flex-column">
 						<div class="footer-logo">
 							<a href="#">
-								<img src="img/Cletter.png" alt="">
+								<img src="img/Rletter.png" alt="">
 							</a>
 							<h4>Follow Me</h4>
 						</div>
