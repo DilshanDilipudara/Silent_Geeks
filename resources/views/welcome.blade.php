@@ -254,19 +254,14 @@
 						</div>
 						<div class="col-lg-6 about-right p-40">
 							<div class="begining-content">
-								<div class="single_about">
-									<h2>Powerful Performance</h2>
+								 <div class="single_about">
+									<h2>Our Objectives</h2>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+										When we working on a problem, we never think about beauty. We think only how to solve the problem. But 
+									    when we have finished, if the solution is not beautiful, we know it is wrong.
 									</p>
-								</div>
-								<div class="single_about">
-									<h2>Light & Dark Color Schemes</h2>
-									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-									</p>
-								</div>
-							</div>
+								</div> 
+	
 						</div>
 					</div>
 				</div>

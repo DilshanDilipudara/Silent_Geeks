@@ -477,48 +477,38 @@
 	<!-- Start Testimonials Area -->
 	<section class="testimonials_area section-gap">
 		<div class="container">
-		<div class="section-title">
-						<h2>My Best</h2>
-						<p>I can easy to do the project using these languages.</p>
-					</div>
+		
 		
 			<div class="testi_slider owl-carousel">
 				<div class="item">
 			
 					<div class="testi_item">
 						<img src="img/brand/android.png" alt="">
-						<h4>Android Studio</h4>
+						<h4> ability   </h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
+							
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/brand/java.png" alt="">
-						<h4>Java</h4>
+						<h4>ability </h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
+							
 						</div>
 					</div>
 				</div>
@@ -526,7 +516,7 @@
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/brand/mysql.png" alt="">
-						<h4>MySQL</h4>
+						<h4>ability </h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -535,10 +525,7 @@
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
+							
 						</div>
 					</div>
 				</div>
@@ -546,19 +533,16 @@
 				<div class="item">
 					<div class="testi_item">
 						<img src="img/brand/laravel2.png" alt="">
-						<h4>Laravel</h4>
+						<h4> ability </h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
-							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
-							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
-							</p>
+							
 						</div>
 					</div>
 				</div>

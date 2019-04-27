@@ -414,7 +414,7 @@
 				</div>
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/rr.jpg" alt="">
+						<img src="img/g2.jpg" alt="">
 						<h4>CCUoJ v1.0</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
