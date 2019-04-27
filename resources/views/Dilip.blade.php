@@ -143,7 +143,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 about-left">
-					<img class="img-fluid" src="img/d4.png" alt="">
+					<img class="img-fluid" src="img/d6.png" alt="">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
@@ -379,17 +379,18 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Blogger</h4>
-								<p>problems Discussion</p>
+								<h4>stackoverflow</h4>
+								<p>problems Solve</p>
 							</div>
 							<div class="top-right">
-								<a href="https://www.blogger.com/blogger.g?blogID=4789871501629630808#allposts" class="primary-btn" data-text="Blogger">
-									<span>B</span><span>l</span><span>o</span><span>g</span><span>g</span><span>e</span><span>r</span>
+								<a href="https://stackoverflow.com/users/11067799/udara-gunawardhana" class="primary-btn" data-text="stackoverflow">
+									<span>S</span><span>t</span><span>a</span><span>c</span><span>k</span><span>o</span><span>
+									v</span><span>e</span><span>r</span><span>f</span><span>l</span><span>o</span><span>w</span>
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							I share my knowledge with socity using blogger account.I think its help to you.
+							I share my knowledge with society using stackoverflow account.I think its help to you.
 						</div>
 					</div>
 				</div>

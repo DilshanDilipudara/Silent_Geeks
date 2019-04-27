@@ -56,7 +56,7 @@
 
 						<li class="menu-has-children"><a href="#">Pages</a>
 							<ul>
-								<li><a href="/Dilip">Dilshan Dilip</a></li>
+								<li><a href="/Dilshan">Dilshan Dilip</a></li>
 						
 								<li><a href="/Chamikara">Chamikara </a></li>
 							</ul>
@@ -84,7 +84,7 @@
 					    Undergraduate Student of
 						<span class="developer">University of Jaffna.</span>
 					</div>
-					<a href="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="primary-btn" data-text="Hire Me">
+					<a href="#" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -101,7 +101,6 @@
 		</div>
 	</section>
 	<!-- End banner Area -->
-
 
 	<!-- Start brands Area -->
 	<section class="brands-area">
@@ -120,9 +119,7 @@
 					<div class="col single-brand">
 						<a href="#"><img class="mx-auto" src="img/brand/android.png" alt=""></a>
 					</div>
-                    <div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/vue.png" alt=""></a>
-					</div>
+                   
 					<div class="col single-brand">
 						<a href="#"><img class="mx-auto" src="img/brand/python.png" alt=""></a>
 					</div>
@@ -152,15 +149,21 @@
 					</div>
 					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
 						<p>
-						       I am third year computer scince <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a> student of university of Jaffna. 
-							   I am interst about prblem solving. 
+						       I am third year computer scince <a href="http://www.csc.jfn.ac.lk/index.php/students-csc-11/">undergraduate</a> 
+							   student of university of Jaffna with experience and extensive education in software design and application development. 
+							 
 						</p>
-						Also I have a knowledge about Java,PHP,Phyton,C language. I am interst to lean new algorithm,data stuructre. I hope to use my computing knowledge to solve real world problem
 						<p>
-						
+						Also I have a good knowledge about Java,PHP,Phyton,C language and experience working with laravel framework.
 						</p>
+						<p>
+						 I think my self as a fast learner with storng time management and multi-tasking skills.I hope to use my problem sloving skills and 
+						 knowledge of data structure and algoritham to solve real world problem.
+
+						</p>
+						<b>I allways try to think "out of box" to provide software-based solutions to real world problem.</b>
 					</div>
-					<a href="#" class="primary-btn white" data-text="More Info">
+					<a href="https://www.linkedin.com/in/rayan-aradha-22430a16b/" class="primary-btn white" data-text="More Info">
 						<span>M</span>
 						<span>o</span>
 						<span>r</span>
@@ -171,7 +174,7 @@
 						<span>f</span>
 						<span>o</span>
 					</a>
-					<a href="#" class="primary-btn" data-text="Resume">
+					<a href="/RayanCv" class="primary-btn" data-text="Resume">
 						<span>R</span>
 						<span>e</span>
 						<span>s</span>
@@ -186,137 +189,7 @@
 	<!-- End About Area -->
 
 
-	<!-- Start Work Area Area -->
-	<section class="work-area section-gap-top section-gap-bottom-90" id="work">
-		<div class="container">
-			<div class="row d-flex justify-content-between align-items-end mb-80">
-				<div class="col-lg-6">
-					<div class="section-title">
-						<h2>Life Event</h2>
-						<p>I am interst to participate codding compition.</p>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="filters">
-						<ul>
-							<li class="active" data-filter=".all">All Categories</li>
-							<!-- <li data-filter=".branding">Sport</li>
-							<li data-filter=".creative">Party</li>
-							<li data-filter=".web-design">Competion</li> -->
-						</ul>
-					</div>
-				</div>
-			</div>
-
-			<div class="filters-content">
-				<div class="row grid">
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/dilshan6.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>University Life</h4>
-								<div class="cat">Friend with funs</div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/dilshan4.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>Relax Time </h4>
-								<div class="cat">Travel</div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/dilshan5.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>Sports</h4>
-								<div class="cat">Elle in a my favor </div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/dilshan7.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>Coding Competion</h4>
-								<div class="cat">UoJ Coders</div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/dilshan8.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>Function in UOJ</h4>
-								<div class="cat">Holy</div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/dilshan9.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>UoJ</h4>
-								<div class="cat">Sinhala And Tamil New Year</div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-
-
-					<div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-						<div class="relative">
-							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="img/uoj.jpg" alt="">
-							</div>
-							<div class="middle">
-								<h4>University of Jaffna </h4>
-								<div class="cat">My Heart</div>
-							</div>
-							<a class="overlay" href="portfolio-details.html"></a>
-						</div>
-					</div>
-
-
-
-
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End Work Area Area -->
-
+	
 
 	<!-- Start Job History Area Area -->
 	<section class="job-area section-gap-top section-gap-bottom-90">
@@ -324,9 +197,8 @@
 			<div class="row d-flex">
 				<div class="col-lg-12">
 					<div class="section-title">
-						<h2>Job History</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						<h2>My Activites</h2>
+			
 					</div>
 				</div>
 			</div>
@@ -337,19 +209,19 @@
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
 								<h4>Problem Solving</h4>
-								<p>ProjectEuler+ , Java , Algorithms</p>
+								<p>ProjectEuler+ , Java , Algorithms, Datastructure</p>
 								
 							</div>
 							<div class="top-right">
-								<a href="https://www.hackerrank.com/gunawardhanauda1?hr_r=1" class="primary-btn" data-text="Haker Rank">
+								<a href="https://www.hackerrank.com/Rayan_Aradha" class="primary-btn" data-text="Haker Rank">
 									<span>H</span>a<span>k</span><span>e</span><span>r</span>
 									<span>R</span><span>a</span><span>n</span><span>k</span>
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							Hacker Rank is famous platfrom which give chance to learn and practise about algoritham 
+							data structure and programing language.I use this platfrom to develop my problem sloving knowledge.
 						</div>
 					</div>
 				</div>
@@ -362,16 +234,15 @@
 								<p>Web Design , Application</p>
 							</div>
 							<div class="top-right">
-								<a href="https://github.com/DilshanDilipudara" class="primary-btn" data-text="git hub">
-									<span>g</span><span>i</span><span>t</span>
-									<span>h</span><span>u</span><span>b</span>
+								<a href="https://github.com/rayanaradha" class="primary-btn" data-text="git hub">
+									<span>G</span><span>i</span><span>t</span>
+									<span>H</span><span>u</span><span>b</span>
 									
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							In github account you can see my project and solution for the some famous programming problems .If you like to join me with your project contact me through the my github account.
 						</div>
 					</div>
 				</div>
@@ -380,18 +251,17 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Blogger</h4>
-								<p>problems Discussion</p>
+								<h4>Weekly Competence</h4>
+								<p>problems Discussion,Competence</p>
 							</div>
 							<div class="top-right">
-								<a href="https://www.blogger.com/blogger.g?blogID=4789871501629630808#allposts" class="primary-btn" data-text="Blogger">
-									<span>B</span><span>l</span><span>o</span><span>g</span><span>g</span><span>e</span><span>r</span>
+								<a href="https://leetcode.com/aradha/" class="primary-btn" data-text="LeetCode">
+									<span>L</span><span>e</span><span>e</span><span>t</span><span>C</span><span>o</span><span>d</span><span>e</span>
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+							LeetCode help to develop programming knowledge.their weekly codding competence help me to measure my knowledge
 						</div>
 					</div>
 				</div>
@@ -400,20 +270,19 @@
 					<div class="single-job">
 						<div class="top-sec d-flex justify-content-between">
 							<div class="top-left">
-								<h4>Sololearn</h4>
-								<p>quice , courses</p>
+								<h4>World Wide competence</h4>
+								<p>google , KickStart,HashCode,CodeJam</p>
 							</div>
 							<div class="top-right">
-								<a href="https://www.sololearn.com/Profile/10480342" class="primary-btn" data-text="Sololearn">
-									<span>S</span><span>o</span><span>l</span><span>o</span>
-									<span>L</span><span>e</span><span>a</span><span>r</span><span>n</span>
+								<a href="https://codingcompetitions.withgoogle.com" class="primary-btn" data-text="Code Jam">
+									<span>C</span><span>o</span><span>d</span><span>e</span>
+									<span>J</span><span>a</span><span>m</span>
 									
 								</a>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
-							All users on MySpace will know that there are millions of people out there. Every day besides. All users on My will know
-							that there are millions of people out of the field there.
+						This is the one of famous worldwide competence organize by google.This help me to compare my skill with others. 
 						</div>
 					</div>
 				</div>
@@ -430,8 +299,7 @@
 				<div class="col-lg-12">
 					<div class="section-title">
 						<h2>Service Offers</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+						
 					</div>
 				</div>
 			</div>
@@ -442,15 +310,15 @@
 						<h4>
 							<span>Web</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-laptop-phone"></span>
-						<h4><span>Android</span> Development
+						<h4><span>Web</span> Development
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -458,21 +326,68 @@
 						<span class="lnr lnr-database"></span>
 						<h4><span>Database</span> Design
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
 						<span class="lnr lnr-chart-bars"></span>
-						<h4><span>Web</span> Development
+						<h4><span>Software</span> Development
 						</h4>
-						<p>If you’re looking blank casvsettes on the web, you may confuse.</p>
+						<p></p>
 					</div>
 				</div>
+				
+				
 			</div>
+			<br>
+				<div class="row">
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s">
+						<span class="lnr lnr-screen"></span>
+						<h4>
+							<span>Software</span> Design
+						</h4>
+						<p></p>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+						<span class="lnr lnr-laptop-phone"></span>
+						<h4>
+							<span>Software</span> Testing
+						</h4>
+						<p></p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
+						<span class="lnr lnr-database"></span>
+						<h4><span>Database</span> Management
+						</h4>
+						<p></p>
+					</div>
+					</div>
+					
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s">
+						<span class="lnr lnr-screen"></span>
+						<h4>
+							<span>Web </span> Application
+						</h4>
+						<p></p>
+					</div>
+				</div>	
+			
 		</div>
+		</div>
+		
 	</section>
 	<!-- End Service Area -->
+
+	
+	<!-- End Work Area Area -->
 
 
 	<!-- Start Testimonials Area -->
@@ -481,8 +396,8 @@
 			<div class="testi_slider owl-carousel">
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/fb.png" alt="">
-						<h4>Facebook</h4>
+						<img src="img/uoj.jpg" alt="">
+						<h4>University of jaffna</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -492,16 +407,15 @@
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
 							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
+								I am undergraduate of one of best university in Sri Lanka.
 							</p>
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Linkend</h4>
+						<img src="img/rr.jpg" alt="">
+						<h4>CCUoJ v1.0</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -511,16 +425,15 @@
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
 							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
+								Our team achieved the 5th place CCUoJ v1.0 Intra University Coding Competition.
 							</p>
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="testi_item">
-						<img src="img/quote.png" alt="">
-						<h4>Twitter</h4>
+						<img src="img/rr1.jpg" alt="">
+						<h4>UoJCodders v1.0</h4>
 						<ul class="list">
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
 							<li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -530,12 +443,89 @@
 						</ul>
 						<div class="wow fadeIn" data-wow-duration="1s">
 							<p>
-								As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel
-								across her face <br> and She is the host to your journey.
+								From 200+ competitive teams of the all over the universites of SriLanka Our team 
+								Silent Geeks get selected to final 15 teams of the UoJCodders version 1. 
 							</p>
 						</div>
 					</div>
 				</div>
+				
+					<div class="item">
+					<div class="testi_item">
+						<img src="img/rr5.jpg" alt="">
+						<h4>Athwala</h4>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+						</ul>
+						<div class="wow fadeIn" data-wow-duration="1s">
+							<p>
+								We help,share over knowledge with school children. 
+							</p>
+						</div>
+					</div>
+				</div>
+				
+					<div class="item">
+					<div class="testi_item">
+						<img src="img/rr4.jpg" alt="">
+						<h4>A/L</h4>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+						</ul>
+						<div class="wow fadeIn" data-wow-duration="1s">
+							<p>
+								I did my A/L in year 2012 at Bandarawela Central College.
+						</div>
+					</div>
+				</div>
+				
+				
+						<div class="item">
+					<div class="testi_item">
+						<img src="img/rr2.jpg" alt="">
+						<h4>"acces CODERS v7.0 "</h4>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+						</ul>
+						<div class="wow fadeIn" data-wow-duration="1s">
+							<p>
+								I participate acces CODERS v7.0 which is oraganize by Peradeniya University.
+							</p>
+						</div>
+					</div>
+				</div>
+				
+					<div class="item">
+					<div class="testi_item">
+						<img src="img/rr3.jpg"  alt="">
+						<h4>Gavel Club</h4>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+							<li><a href="#"><i class="fa fa-star"></i></a></li>
+						</ul>
+						<div class="wow fadeIn" data-wow-duration="1s">
+							<p>
+								I am a member of gavel club, which is help to improve my english spoken skill.
+							</p>
+						</div>
+					</div>
+				</div>
+				
 			</div>
 		</div>
 	</section>
@@ -549,8 +539,8 @@
 				<div class="col-lg-12">
 					<div class="contact-title">
 						<h2>Contact Me</h2>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see
-							some for as low as $.17 each.</p>
+							
+						<h4> you are free to contact me any time through a...     </h4>
 					</div>
 				</div>
 			</div>
@@ -558,19 +548,20 @@
 			<div class="row mt-80">
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>+94717378668</h4>
+						<h4>+94719059943</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>gunawardhanaudara@gmail.com</h4>
+						<h4>+94572233064</h4>
 					</div>
-				</div>
+					</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>DilshanDilip.me</h4>
+						<h4>rayanaradha1993@gmail.com</h4>
 					</div>
 				</div>
+				
 			</div>
 
 			<div class="row">
@@ -604,10 +595,10 @@
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
-							<a href="https://www.facebook.com/dilshan.dilip"><i class="fa fa-facebook"></i></a>
-							<a href="https://twitter.com/DilshanDilip3"><i class="fa fa-twitter"></i></a>
-							<a href="https://github.com/DilshanDilipudara"><i class="fa fa-github"></i></a>
-							<a href="https://www.linkedin.com/in/dilshan-dilip-udara-79b669183/"><i class="fa fa-linkedin"></i></a>
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							
+							<a href="https://github.com/rayanaradha"><i class="fa fa-github"></i></a>
+							<a href="https://www.linkedin.com/in/rayan-aradha-22430a16b/"><i class="fa fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>
