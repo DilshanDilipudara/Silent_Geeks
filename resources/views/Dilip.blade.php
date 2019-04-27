@@ -83,7 +83,7 @@
 					      in
 						<span class="developer">University of Jaffna.</span>
 					</div>
-					<a href="https://chat.whatsapp.com/B7GdEEWxoUUDWbYTCl91dm" class="primary-btn" data-text="Hire Me">
+					<a href="mailto:gunawardhanaudara@gmail.com" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -594,7 +594,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-box">
-						<h4>DilshanDilip.me</h4>
+						<a href="https://chat.whatsapp.com/B7GdEEWxoUUDWbYTCl91dm"><h4>WhatsApp</h4></a>
 					</div>
 				</div>
 			</div>

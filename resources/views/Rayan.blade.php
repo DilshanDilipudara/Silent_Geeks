@@ -84,7 +84,7 @@
 					    Undergraduate Student of
 						<span class="developer">University of Jaffna.</span>
 					</div>
-					<a href="#" class="primary-btn" data-text="Hire Me">
+					<a href="mailto:rayanaradha1993@gmail.com" class="primary-btn" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
@@ -566,7 +566,7 @@
 
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<a href="#" class="primary-btn mt-50" data-text="Hire Me">
+					<a href="https://chat.whatsapp.com/B7GdEEWxoUUDWbYTCl91dm" class="primary-btn mt-50" data-text="Hire Me">
 						<span>H</span>
 						<span>i</span>
 						<span>r</span>
