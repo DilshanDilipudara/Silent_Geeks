@@ -94,7 +94,7 @@
 					</a>
 				</div>
 				<div class="banner-img col-lg-6 col-md-6 align-self-end">
-					<img class="img-fluid" src="img/banner-img.png" alt="">
+					<img class="img-fluid" src="img/chami1.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -137,7 +137,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 about-left">
-					<img class="img-fluid" src="img/about-img.jpg" alt="">
+					<img class="img-fluid" src="img/chami2.png" alt="chamikara">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
