@@ -1,7 +1,7 @@
 <h1> Silent Geeks </h2>
       
  <br><br>
- <h2>->Clone Project</h2>
+ <h3>Clone Project</h3>
       
                 -> https://github.com/DilshanDilipudara/Silent_Geeks.git 
         
@@ -14,6 +14,6 @@
                  * JavaScript
                  
                  
- <h2>Link</h2>
+ <h3>Link</h3>
                   
                   -> http://www.silentgeeks.tk/
